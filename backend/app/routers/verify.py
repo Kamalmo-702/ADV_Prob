@@ -1,6 +1,4 @@
 # Owner: Issue 5 - Check the Slides
-from typing import Any
-
 from fastapi import APIRouter
 
 from app.core.schemas import SolutionResponse
